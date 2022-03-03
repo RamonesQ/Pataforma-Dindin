@@ -118,6 +118,7 @@ footer {
 .box img{
     width: 100%;
     height: 40%;
+    cursor: pointer;
 }
 .box h2{
     color: #FF4081;
